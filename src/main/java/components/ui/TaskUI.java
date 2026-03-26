@@ -1,7 +1,7 @@
-package ui;
+package components.ui;
 
-import model.Task;
-import repository.TaskRepository;
+import components.model.Task;
+import components.repository.TaskRepository;
 
 import java.util.List;
 import java.util.Scanner;
